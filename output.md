@@ -13,8 +13,11 @@ below.
       Name      UTORid
       --------- ----------
       Leo Lei   leisong1
+      Felix Gao gaoyuc10
+      Wille Jiang jian1223
+      Hans Li     lidongq1
 
-2.  **Goals and Expectations** What does each member want to achieve
+3.  **Goals and Expectations** What does each member want to achieve
     from this project? Are your goals aligned as a group?
 
     **Answer:**
@@ -22,7 +25,7 @@ below.
     We are all aiming for an A/A+ on this project and strive to reach
     this goal with the best of our abilities.
 
-3.  **Group Roles:** What roles are necessary for the success of your
+4.  **Group Roles:** What roles are necessary for the success of your
     project? Who will be assigned to each role? Consider each member's
     strengths and weaknesses.
 
@@ -30,7 +33,7 @@ below.
 
     Replace this with your answer.
 
-4.  **Communication:** How will you communicate? What are your
+5.  **Communication:** How will you communicate? What are your
     expectations for response times? How often will you meet, and for
     how long? What technology will you use?
 
@@ -46,7 +49,7 @@ below.
     virtual meeting on Discord to keep everyone up to date and address
     any issues or difficulties.
 
-5.  **Preparation for Meetings:** What should members do before each
+6.  **Preparation for Meetings:** What should members do before each
     weekly meeting?
 
     **Tip:**
@@ -58,7 +61,7 @@ below.
 
     Replace this with your answer.
 
-6.  **Meeting Conduct:** What are your expectations for attitudes and
+7.  **Meeting Conduct:** What are your expectations for attitudes and
     responses during meetings? How will you manage turn-taking and
     ensure everyone contributes? How will you make decisions?
 
@@ -71,7 +74,7 @@ below.
     Structure meetings effectively and decide on a method for resolving
     disagreements, such as consensus or majority vote.
 
-7.  **Work Structure:** How will you structure the work? Will most of it
+8.  **Work Structure:** How will you structure the work? Will most of it
     be done during or outside of meetings? How will you assign
     responsibilities?
 
@@ -84,7 +87,7 @@ below.
     Use a divide-and-conquer approach, ensuring an equal workload for
     all members.
 
-8.  **Submission of Deliverables:** How will you submit deliverables?
+9.  **Submission of Deliverables:** How will you submit deliverables?
     Will all members review the submission before it's finalized? When
     should the write-up be ready for review?
 
@@ -96,7 +99,7 @@ below.
 
     Communicate struggles early and work together to find solutions.
 
-9.  **Handling Surprises:** How will you deal with unexpected
+10.  **Handling Surprises:** How will you deal with unexpected
     challenges? What should a member do if they can't deliver on a
     promise? How will the group respond?
 
@@ -108,7 +111,7 @@ below.
 
     Communicate struggles early and work together to find solutions.
 
-10. **Conflict Resolution:** How will you handle conflicts? How can a
+11. **Conflict Resolution:** How will you handle conflicts? How can a
     member signal an issue? How will the group respond?
 
     **Answer:**
